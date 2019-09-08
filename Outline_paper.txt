@@ -1,0 +1,32 @@
+Abstract
+
+1. Introduction 
+2. Related Work 
+- Generalization
+- (1) Prediction models
+- (2) Optimized resources provide guaranteed SLA
+- (3) Limitations in related works
+- (4) Our contributions
+3. Functional-Link Bacterial Foraging Optimization Neural Network
+3.1 - Designing Cloud Auto-scaling System 
+3.2 - Extraction module
+3.3 Learning module
+- Bacterial Foraging Optimization Algorithm (Describes in details parameters)
+- Maths, Algorithms
+3.4 Forecasting module
+3.5 Decision module
+4. Experiments
+4.1 Google Trace Dataset
+4.2 Parameter Settings for the Involved Algorithms and Models
+4.3 Predicting resources consumption with multivariate input data
+4.4 Auto-scaling cloud resources consumption
+4.5 Influence of SLA-violations parameters on Auto-scaling strategy
+- Adaptation length changing experiment:
+- Scaling coefficient changing experiment:
+5. Conclusion and future works
+
+Acknowledgment
+References 
+
+
+
